@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SaroldiGonzalezFrancisco
+comment0.text=\n\ Write\ a\ description\ of\ class\ SaroldiGonzalezFrancisco\ here.\n\n\ @author\ FranciscoSaroldi-Gonzalez\n\ @version\ 1.0\ 2024-01-05\n
+comment1.params=
+comment1.target=SaroldiGonzalezFrancisco()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ speak()
+comment5.params=
+comment5.target=java.lang.String\ getDisposition()
+numComments=6
